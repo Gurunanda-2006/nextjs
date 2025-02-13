@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "url-shortener",
+=======
+  "name": "nextjs",
+>>>>>>> fddc6ceeed09341b9a153b8c16a861d1ba2eb9be
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +15,11 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+<<<<<<< HEAD
     "next": "15.1.7"
+=======
+    "next": "15.1.6"
+>>>>>>> fddc6ceeed09341b9a153b8c16a861d1ba2eb9be
   },
   "devDependencies": {
     "typescript": "^5",
@@ -21,7 +29,11 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "eslint": "^9",
+<<<<<<< HEAD
     "eslint-config-next": "15.1.7",
+=======
+    "eslint-config-next": "15.1.6",
+>>>>>>> fddc6ceeed09341b9a153b8c16a861d1ba2eb9be
     "@eslint/eslintrc": "^3"
   }
 }
